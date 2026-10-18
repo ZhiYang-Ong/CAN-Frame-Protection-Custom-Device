@@ -41,6 +41,7 @@
 		<Item Name="Bitfile.Download.vi" Type="VI" URL="../SubVIs/Bitfile.Download.vi"/>
 		<Item Name="Bitfile.Initialize.vi" Type="VI" URL="../SubVIs/Bitfile.Initialize.vi"/>
 		<Item Name="Bitfile.Unload.vi" Type="VI" URL="../SubVIs/Bitfile.Unload.vi"/>
+		<Item Name="Cyclic Scheduler.vi" Type="VI" URL="../SubVIs/Cyclic Scheduler.vi"/>
 		<Item Name="Format Debug String.vi" Type="VI" URL="../SubVIs/Format Debug String.vi"/>
 		<Item Name="Initialize Generate.vi" Type="VI" URL="../SubVIs/Initialize Generate.vi"/>
 		<Item Name="Initialize Incoming.vi" Type="VI" URL="../SubVIs/Initialize Incoming.vi"/>

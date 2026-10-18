@@ -36,6 +36,7 @@
 		<Item Name="AsyncEngine.CANProtectionAndCounter.vi" Type="VI" URL="../Processes/AsyncEngine.CANProtectionAndCounter.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Async Cleanup.vi" Type="VI" URL="../SubVIs/Async Cleanup.vi"/>
 		<Item Name="Async Initialize.vi" Type="VI" URL="../SubVIs/Async Initialize.vi"/>
 		<Item Name="Bitfile.Download.vi" Type="VI" URL="../SubVIs/Bitfile.Download.vi"/>
@@ -48,11 +49,15 @@
 		<Item Name="Network Engine.vi" Type="VI" URL="../SubVIs/Network Engine.vi"/>
 		<Item Name="Process Incoming Frames.vi" Type="VI" URL="../SubVIs/Process Incoming Frames.vi"/>
 		<Item Name="Process Outgoing Frames.vi" Type="VI" URL="../SubVIs/Process Outgoing Frames.vi"/>
+		<Item Name="Sort Frames by Timing.vi" Type="VI" URL="../SubVIs/Sort Frames by Timing.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="RT Async Engine Settings.ctl" Type="VI" URL="../Types/RT Async Engine Settings.ctl"/>
 		<Item Name="RT Async Engine Variables.ctl" Type="VI" URL="../Types/RT Async Engine Variables.ctl"/>
+		<Item Name="RT Bucket of Frames.ctl" Type="VI" URL="../Types/RT Bucket of Frames.ctl"/>
+		<Item Name="RT Bucket of Indices.ctl" Type="VI" URL="../Types/RT Bucket of Indices.ctl"/>
 		<Item Name="RT Data References.ctl" Type="VI" URL="../Types/RT Data References.ctl"/>
+		<Item Name="RT Frame Settings with Index.ctl" Type="VI" URL="../Types/RT Frame Settings with Index.ctl"/>
 	</Item>
 	<Item Name="RT Driver VI.vi" Type="VI" URL="../RT Driver VI.vi"/>
 </Library>

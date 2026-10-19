@@ -80,6 +80,7 @@
 			<Item Name="Export Section Database Change to CSV.vi" Type="VI" URL="../SubVIs/Export Section Database Change to CSV.vi"/>
 			<Item Name="FileDependency.Create.vi" Type="VI" URL="../SubVIs/FileDependency.Create.vi"/>
 			<Item Name="FileDependency.Get.Target Path.vi" Type="VI" URL="../SubVIs/FileDependency.Get.Target Path.vi"/>
+			<Item Name="Filter Invalid Ref.vi" Type="VI" URL="../SubVIs/Filter Invalid Ref.vi"/>
 			<Item Name="Frame.Settings.vi" Type="VI" URL="../SubVIs/Frame.Settings.vi"/>
 			<Item Name="Get All VS Frame Changes.vi" Type="VI" URL="../SubVIs/Get All VS Frame Changes.vi"/>
 			<Item Name="Get Custom Device Ref.vi" Type="VI" URL="../SubVIs/Get Custom Device Ref.vi"/>

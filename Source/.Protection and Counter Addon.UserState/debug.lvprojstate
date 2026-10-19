@@ -1,6 +1,19 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Protection and Counter Addon Engine.lvlib:Sort Frames by Timing.vi">
+      <Breakpoints>
+        <NodeIndexes>
+          <Node index="2950" enabled="1"/>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
   <Target name="RT PXI Target - Linux64">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
